@@ -13,6 +13,7 @@ public class Order {
         this.toppings = toppings;
         this.qty = qty;
         this.subtotal = subtotal;
+        this.subtotal = 24;
     }
 
     public String getType() {
